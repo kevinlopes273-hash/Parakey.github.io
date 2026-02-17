@@ -17,7 +17,7 @@ const messages = [
   "Los he disfrutado como nunca te imaginas ❤️",
   "Y aún nos falta mucho por delante…",
   "Key…",
-  "Quiero que seas tu esa persona que comparta mi vida❤️",
+  "Quiero que seas tu mi novia❤️",
   "final"
 ];
 
@@ -110,5 +110,6 @@ function middleDaysMessage() {
 }
 
 // 💖 mensaje final
+
 
 
